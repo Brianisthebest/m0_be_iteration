@@ -1,6 +1,6 @@
 # Self Evaluation
 
-- How confident do you feel in your understanding and fluency with the `each` method?
-- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
-- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-- What questions do you still have? How will you get the answers you need?
+- How confident do you feel in your understanding and fluency with the `each` method? I think I feel pretty confident with my understanding that we're just using a method to do something for each element that's been declared in our array.
+- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle? It feels really good when we meet up concepts we've previously learned and start applying them with new things. I've been enjoying putting it all together.
+- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that? I'd like to work on the language and make sure I'm using the correct terms for things. I've been testing myself each night and talking out the different things we've learned to see what I've got down and what I have to think about a little more.
+- What questions do you still have? How will you get the answers you need? I've been able to google anything that's come up so far, but it's been nice seeing questions being asked in our small group channel and getting answered to know when the time comes I've got people willing to help out!
